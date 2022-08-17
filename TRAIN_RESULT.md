@@ -1,5 +1,7 @@
 epoch 20, d_model 512, 2 linear output layers, etc ...
 
+---
+
 Epoch 1  |  Train Loss : [1.54737]  |  Train Metric: not yet 
 
 Epoch 2  |  Train Loss : [0.92533]  |  Train Metric: not yet 
